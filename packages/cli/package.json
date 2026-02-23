@@ -1,6 +1,6 @@
 {
   "name": "@minions-sprints/cli",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "CLI for minions-sprints — Sprint definitions, scope, and velocity tracking",
   "license": "MIT",
   "repository": {
