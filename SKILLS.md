@@ -1,6 +1,12 @@
 ---
 name: minions-sprints
-description: Sprint definitions, scope, and velocity tracking
+id: OC-0161
+version: 1.0.0
+description: "Sprint definitions, scope, and velocity tracking"
+category: productivity
+subcategory: tasks
+tags: ["minion", "productivity", "tasks"]
+comments:
 ---
 
 # minions-sprints — Agent Skills
