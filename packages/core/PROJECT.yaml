@@ -1,0 +1,8 @@
+name: "@minions-sprints/sdk"
+project_scope: child
+child_type: sdk
+parent_project: minions-sprints-workspace
+description: "Sprint definitions, scope, and velocity tracking"
+priority: high
+deploy_url: null
+tags: null

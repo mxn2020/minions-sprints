@@ -1,0 +1,8 @@
+name: "@minions-sprints/cli"
+project_scope: child
+child_type: cli
+parent_project: minions-sprints-workspace
+description: "CLI for minions-sprints — Sprint definitions, scope, and velocity tracking"
+priority: high
+deploy_url: null
+tags: null

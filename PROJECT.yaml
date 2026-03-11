@@ -1,0 +1,15 @@
+name: minions-sprints-workspace
+project_scope: main
+project_type: monorepo
+description: "Sprint definitions, scope, and velocity tracking"
+tier: idea
+lane: minions
+priority: medium
+oss: true
+stack: [typescript]
+repo: "https://github.com/mxn2020/minions-sprints"
+deploy_url: null
+last_active: 2026-02-23
+tags: [minion, toolbox, ai-agent, automation, minions, sprints]
+notes: null
+id: e96679e7-d7e6-4a96-a867-1b821bb70c9d
